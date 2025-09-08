@@ -1,24 +1,20 @@
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "air"
 title                    : "Muhammad Lutfi"
 title_separator          : "-"
-name                     : &name "Muhammad Lutfi"
-description              : &description "Just example of Muhammad Lutfi"
-url                      : https://mhdlutfi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "Muhammad Lutfi"
+description              : "Just example of Muhammad Lutfi"
+url                      : https://mhdlutfi.github.io
 repository               : "mhdlutfi260/mhdlutfi.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
-  # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Muhammad Lutfi"
+  pronouns         : "he/him"  
+  bio              : "I am a development practitioner specializing in the intersection of economics, sustainable agriculture, and conservation policy. I currently serve as an Agriculture Advisor at the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), supporting the implementation of the Global Biodiversity Framework (GBF) and the Climate and Biodiversity Hub Indonesia (CBHI). In this role, I work closely with key partners, including Indonesia's Ministry of National Development Planning (BAPPENAS), the Ministry of Environment and Forestry (KLHK), and the ASEAN Secretariat. I graduated as Valedictorian from Universitas Gadjah Mada with a Bachelor of Science in Agriculture. My studies were fully supported by the Pertamina Foundation Scholarship (2019-2021) and the Cargill Global Scholarship Program (2021-2023). My primary interest lies in designing development policies that harmonize agricultural productivity and conservation efforts to achieve sustainable development goals."
+  location         : "Jakarta, Indonesia"
+  employer         : "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)"
   uri              : # URL
   email            : "mhdlutfi260@gmail.com" 
 
